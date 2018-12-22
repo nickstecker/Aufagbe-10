@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dokumente\\GitHub\\ComputergrafikMIB\\Tut10_MeshCompleted\\Tut10_MeshCompleted.csproj",
+      "projectUniqueName": "D:\\Dokumente\\GitHub\\Aufagbe-10\\Tut10_MeshCompleted\\Tut10_MeshCompleted.csproj",
       "projectName": "Tut10_MeshCompleted",
-      "projectPath": "D:\\Dokumente\\GitHub\\ComputergrafikMIB\\Tut10_MeshCompleted\\Tut10_MeshCompleted.csproj",
+      "projectPath": "D:\\Dokumente\\GitHub\\Aufagbe-10\\Tut10_MeshCompleted\\Tut10_MeshCompleted.csproj",
       "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-      "outputPath": "D:\\Dokumente\\GitHub\\ComputergrafikMIB\\Tut10_MeshCompleted\\obj\\",
+      "outputPath": "D:\\Dokumente\\GitHub\\Aufagbe-10\\Tut10_MeshCompleted\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

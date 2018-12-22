@@ -8,3 +8,13 @@ D:\Dokumente\GitHub\ComputergrafikMIB\Tut10_MeshCompleted\obj\Debug\netstandard2
 D:\Dokumente\GitHub\ComputergrafikMIB\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.AssemblyInfo.cs
 D:\Dokumente\GitHub\ComputergrafikMIB\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.dll
 D:\Dokumente\GitHub\ComputergrafikMIB\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.pdb
+D:\Dokumente\GitHub\Aufagbe-10\Tut10_MeshCompleted\bin\Debug\netstandard2.0\Assets\AboutFuseeAssets.txt
+D:\Dokumente\GitHub\Aufagbe-10\Tut10_MeshCompleted\bin\Debug\netstandard2.0\Tut10_MeshCompleted.deps.json
+D:\Dokumente\GitHub\Aufagbe-10\Tut10_MeshCompleted\bin\Debug\netstandard2.0\Tut10_MeshCompleted.dll
+D:\Dokumente\GitHub\Aufagbe-10\Tut10_MeshCompleted\bin\Debug\netstandard2.0\Tut10_MeshCompleted.pdb
+D:\Dokumente\GitHub\Aufagbe-10\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.csprojAssemblyReference.cache
+D:\Dokumente\GitHub\Aufagbe-10\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.csproj.CoreCompileInputs.cache
+D:\Dokumente\GitHub\Aufagbe-10\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.AssemblyInfoInputs.cache
+D:\Dokumente\GitHub\Aufagbe-10\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.AssemblyInfo.cs
+D:\Dokumente\GitHub\Aufagbe-10\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.dll
+D:\Dokumente\GitHub\Aufagbe-10\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.pdb
